@@ -40,7 +40,7 @@ Plant diseases significantly affect crop yield and quality. Early detection thro
 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/plant-disease-detection.git
+git clone https://github.com/dishi575/Plant-Disease-Detection.git
 cd plant-disease-detection
 ```
 
